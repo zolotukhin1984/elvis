@@ -7,6 +7,7 @@
 </head>
 <body>
 	<h1>Интернет-магазин</h1>
+	<p>Самый лучший интернет-магазин</p>
 	<a href="index.php">Сделать рассылку</a>
 	<a href="addemail.php">Добавить адреса</a>
 	<a href="removeemail.php">Удалить адреса</a>
