@@ -3,6 +3,10 @@ body {
 	color: red;
 }
 
+h1 {
+	font-size: 50px;
+}
+
 p {
 	color: orange;
 	font-size: 32px;
