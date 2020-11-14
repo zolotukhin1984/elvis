@@ -5,4 +5,6 @@ body {
 h1 {
 	color: blue;
 	background: gray;
+	font-size: 35px;
+	font-family: 'Times New Roman', Verdana, Serif;
 }
